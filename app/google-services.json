@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522839371294",
+    "firebase_url": "https://delapp-682de-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "delapp-682de",
+    "storage_bucket": "delapp-682de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522839371294:android:23390d25cc40e8ae30480f",
+        "android_client_info": {
+          "package_name": "eu.tutorials.delapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522839371294-ta6s58gk9dfc2hshso0o1siq83f2rbvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWDhmBkEdwdsNDj6FcKsgCW68ITvMUrsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522839371294-ta6s58gk9dfc2hshso0o1siq83f2rbvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
